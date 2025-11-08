@@ -24,10 +24,11 @@
 > “技术不仅是工具，更是探索未知世界、解决实际问题的钥匙。”
 
 ---
+
 ### ⚙️ 技术栈与工具
 
 #### 💬 编程语言
-!C [<sup>1</sup>](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+!C [<sup>2</sup>](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 !Python [<sup>3</sup>](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 !Java [<sup>4</sup>](https://img.shields.io/badge/Java-orange?logo=openjdk)
 !Shell Script [<sup>5</sup>](https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white)
@@ -44,6 +45,7 @@
 !Mechanical Revolution [<sup>12</sup>](https://img.shields.io/badge/Laptop-MechRev%20Wujie%2014XPro-darkblue?logo=laptop&logoColor=white)
 
 ---
+
 
 
 ### 🚀 我的项目与探索 (敬请期待 / 待补充)
