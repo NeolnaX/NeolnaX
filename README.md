@@ -75,9 +75,9 @@
 ### 🌐 联系我
 
 📧 **Email**：maxuoa@foxmail.com / neolnax@outlook.com  
-💻 **GitHub**：<sup>12</sup> [<sup>12</sup>](https://github.com/NeolnaX)
+💻 **GitHub**：NeolnaX 的 GitHub 主页 [<sup>1</sup>](https://github.com/NeolnaX)
 <!-- 如果有其他，例如： -->
-<!-- 📢 **知乎**：你的知乎主页 <sup>13</sup> [<sup>13</sup>](你的知乎链接)  -->
+<!-- 📢 **知乎**：你的知乎主页 [<sup>2</sup>](你的知乎链接)  -->
 
 ---
 
