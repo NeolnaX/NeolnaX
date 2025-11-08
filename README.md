@@ -24,27 +24,27 @@
 > “技术不仅是工具，更是探索未知世界、解决实际问题的钥匙。”
 
 ---
-
 ### ⚙️ 技术栈与工具
 
 #### 💬 编程语言
-!C <sup>1</sup> [<sup>1</sup>](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-!Python <sup>2</sup> [<sup>2</sup>](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-!Java <sup>3</sup> [<sup>3</sup>](https://img.shields.io/badge/Java-orange?logo=openjdk)
-!Shell Script <sup>4</sup> [<sup>4</sup>](https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white)
+!C [<sup>1</sup>](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+!Python [<sup>3</sup>](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+!Java [<sup>4</sup>](https://img.shields.io/badge/Java-orange?logo=openjdk)
+!Shell Script [<sup>5</sup>](https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white)
 
 #### 🌐 网络与系统
-!OpenWrt <sup>5</sup> [<sup>5</sup>](https://img.shields.io/badge/OpenWrt-00833C?logo=linux&logoColor=white)
-!Linux <sup>6</sup> [<sup>6</sup>](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-!Networking <sup>7</sup> [<sup>7</sup>](https://img.shields.io/badge/Networking-blue?logo=wireshark&logoColor=white)
-!Hardware <sup>8</sup> [<sup>8</sup>](https://img.shields.io/badge/Hardware-red?logo=cpu&logoColor=white)
+!OpenWrt [<sup>6</sup>](https://img.shields.io/badge/OpenWrt-00833C?logo=linux&logoColor=white)
+!Linux [<sup>7</sup>](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+!Networking [<sup>8</sup>](https://img.shields.io/badge/Networking-blue?logo=wireshark&logoColor=white)
+!Hardware [<sup>9</sup>](https://img.shields.io/badge/Hardware-red?logo=cpu&logoColor=white)
 
 #### 💻 我的设备
-!Intel Core i5 <sup>9</sup> [<sup>9</sup>](https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white)
-!NVIDIA GeForce RTX 3080 <sup>10</sup> [<sup>10</sup>](https://img.shields.io/badge/GPU-RTX%203080-76B900?logo=nvidia&logoColor=white)
-!Mechanical Revolution <sup>11</sup> [<sup>11</sup>](https://img.shields.io/badge/Laptop-MechRev%20Wujie%2014XPro-darkblue?logo=laptop&logoColor=white)
+!Intel Core i5 [<sup>10</sup>](https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white)
+!NVIDIA GeForce RTX 3080 [<sup>11</sup>](https://img.shields.io/badge/GPU-RTX%203080-76B900?logo=nvidia&logoColor=white)
+!Mechanical Revolution [<sup>12</sup>](https://img.shields.io/badge/Laptop-MechRev%20Wujie%2014XPro-darkblue?logo=laptop&logoColor=white)
 
 ---
+
 
 ### 🚀 我的项目与探索 (敬请期待 / 待补充)
 
