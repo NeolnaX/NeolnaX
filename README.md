@@ -28,23 +28,28 @@
 ### ⚙️ 技术栈与工具
 
 #### 💬 编程语言
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-orange?logo=openjdk" alt="Java">
-<img src="https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white" alt="Shell Script">
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C"> &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> &nbsp;
+  <img src="https://img.shields.io/badge/Java-orange?logo=openjdk" alt="Java"> &nbsp;
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white" alt="Shell Script">
+</p>
 
 #### 🌐 网络与系统
-<img src="https://img.shields.io/badge/OpenWrt-00833C?logo=linux&logoColor=white" alt="OpenWrt">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Networking-blue?logo=wireshark&logoColor=white" alt="Networking">
-<img src="https://img.shields.io/badge/Hardware-red?logo=cpu&logoColor=white" alt="Hardware">
+<p>
+  <img src="https://img.shields.io/badge/OpenWrt-00833C?logo=linux&logoColor=white" alt="OpenWrt"> &nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"> &nbsp;
+  <img src="https://img.shields.io/badge/Networking-blue?logo=wireshark&logoColor=white" alt="Networking"> &nbsp;
+  <img src="https://img.shields.io/badge/Hardware-red?logo=cpu&logoColor=white" alt="Hardware">
+</p>
 
 #### 💻 我的设备
 <p>
-  <img src="https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white" alt="Intel Core i5-14600KF">
-  <img src="https://img.shields.io/badge/GPU-RTX%203080-76B900?logo=nvidia&logoColor=white" alt="NVIDIA GeForce RTX 3080">
+  <img src="https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white" alt="Intel Core i5-14600KF"> &nbsp;
+  <img src="https://img.shields.io/badge/GPU-RTX%203080-76B900?logo=nvidia&logoColor=white" alt="NVIDIA GeForce RTX 3080"> &nbsp;
   <img src="https://img.shields.io/badge/Laptop-MechRev%20Wujie%2014XPro-darkblue?logo=laptop&logoColor=white" alt="机械革命无界 14XPro">
 </p>
+
 
 
 ---
