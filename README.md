@@ -45,7 +45,7 @@
 
 #### 💻 我的设备
 <p>
-  <img src="https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white" alt="Intel Core i5-14600KF"> &nbsp;
+  <img src="https://img.shields.io/badge/CPU-i5%2D14600KF-0071C5?logo=intel&logoColor=white" alt="Intel Core i5"> &nbsp;
   <img src="https://img.shields.io/badge/GPU-RTX%203080-76B900?logo=nvidia&logoColor=white" alt="NVIDIA GeForce RTX 3080"> &nbsp;
   <img src="https://img.shields.io/badge/Laptop-MechRev%20Wujie%2014XPro-darkblue?logo=laptop&logoColor=white" alt="机械革命无界 14XPro">
 </p>
