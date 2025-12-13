@@ -1,7 +1,7 @@
 <!-- 你的 GitHub 主页 README.md -->
 
-<h1 align="center">👋 你好，我是 Maxuoa</h1>
-<h3 align="center">一名热爱计算机硬件与网络工程的在校学生 · C / Python / Java · OpenWrt</h3>
+<h1 align="center">👋 你好，我是 NeolnaX</h1>
+<h3 align="center">一名热爱计算机硬件与网络的在校学生 · C / Python / Java · OpenWrt</h3>
 
 <p align="center">
   <a href="mailto:maxuoa@foxmail.com"><img src="https://img.shields.io/badge/Email-maxuoa%40foxmail.com-blue?logo=gmail&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 
 ### 🧠 关于我
 
-- 👨‍🎓 中国广西省一名**网络工程**专业的大学生
+- 👨‍🎓 中国广西省一名**计算机大类**的大学生
 - 💻 目前正在深入学习 **C / Python / Java** 等编程语言
 - 🛠️ 掌握 **OpenWrt 固件编译**，对路由器定制和网络配置有实践经验
 - 💡 对**计算机硬件**（尤其是 DIY 装机和性能优化）和**网络技术**充满热情
